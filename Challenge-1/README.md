@@ -1,3 +1,3 @@
 **Name:** Lakshmi Swetha S
 
-**Email:** lakshmiswetha@gmail.com
+**Email:** lakshmisswetha@gmail.com
