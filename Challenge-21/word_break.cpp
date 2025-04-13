@@ -17,7 +17,7 @@ public:
     }
 
 
-    bool wordBreak(string s, vector<string>& wordDict) {
+    bool wordBreak(string s, vector<string>& wordDict) {  
 
         set<string>st;
         memset(dp, -1, sizeof dp);
